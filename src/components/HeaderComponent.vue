@@ -106,12 +106,12 @@ header h1 img {
     justify-content: space-between;
     z-index: 1200;
     position: relative;
-    transition: all 0.5s ease;
+    transition: all 0.3s ease;
     margin: 0 20px;
 }
 
 .menu-icon:hover .linha {
-    background: #000000;
+    background: #f81f40;
 }
 
 div.linha {
@@ -173,7 +173,7 @@ div.linha {
         color: #ffffff;
         transition: color 0.5s ease;
         cursor: pointer;
-        
+
 
     }
 
@@ -184,7 +184,7 @@ div.linha {
 }
 /*==================spaceHeader============= */
 .spaceHeader{
-    
+
     padding: 0 150px;
 }
 </style>

@@ -18,6 +18,6 @@ body {
         border-radius: 80px;
     }
     & .logo:hover{
-        box-shadow: -10px 2px 15px #ffffff;
+        box-shadow: -10px 2px 20px #f81f40ab;
     }
 }

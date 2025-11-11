@@ -2,6 +2,8 @@
 import HeaderComponent from './components/HeaderComponent.vue';
 import FooterComponent from './components/FooterComponent.vue.vue';
 
+//import horror from './components/home/HorrorMovies.vue';
+import BannerHomeComponent from './components/home/BannerHomeComponent.vue';
 </script>
 <template>
   <header>
@@ -9,7 +11,9 @@ import FooterComponent from './components/FooterComponent.vue.vue';
   </header>
   <main>
     <!--<RouterView />-->
+    <BannerHomeComponent />
 
+    <!--<horror />-->
   </main>
   <footer>
     <FooterComponent />
