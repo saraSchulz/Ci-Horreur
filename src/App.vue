@@ -1,9 +1,21 @@
 <script setup>
-</script>
+import HeaderComponent from './components/HeaderComponent.vue';
+import FooterComponent from './components/FooterComponent.vue.vue';
 
+</script>
 <template>
-  <h1>Ci'Horreur</h1>
+  <header>
+    <headerComponent />
+  </header>
+  <main>
+    <!--<RouterView />-->
+
+  </main>
+  <footer>
+    <FooterComponent />
+  </footer>
 </template>
 
 <style scoped>
+
 </style>
