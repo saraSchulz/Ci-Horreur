@@ -59,9 +59,7 @@
             </RouterLink>
         </h1>
     </header>
-    <div class="spaceHeader">
-
-    </div>
+    <div class="spaceHeader"></div>
 </template>
 
 <style scoped>
@@ -184,7 +182,6 @@ div.linha {
 }
 /*==================spaceHeader============= */
 .spaceHeader{
-
-    padding: 0 150px;
+    padding: 100px;
 }
 </style>

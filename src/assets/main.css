@@ -8,6 +8,9 @@ body {
         color: #fff;
         list-style: none;
     }
+    & h1{
+      font-family: 'Offside', sans-serif;
+    }
     & .logo{
         display: block;
         margin: 5px auto 40px;
